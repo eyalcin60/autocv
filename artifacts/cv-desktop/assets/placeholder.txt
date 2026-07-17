@@ -1,0 +1,7 @@
+Place icon files here before packaging:
+- icon.ico  (Windows, 256x256 recommended)
+- icon.icns (macOS)
+- icon.png  (Linux, 512x512 recommended)
+
+You can create icons at: https://www.icoconverter.com/
+Or generate from a PNG with: electron-icon-builder
